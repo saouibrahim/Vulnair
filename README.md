@@ -1,4 +1,4 @@
-# 🔍 **Vulnair** - The AI-Powered Pentesting Tool
+# --IN DEVELOPMENT-- 🔍 **Vulnair** - The AI-Powered Pentesting Tool
 
 ## 🚀 **Overview**
 **Vulnair** is an advanced pentesting tool designed to scan a variety of targets, including servers, networks, etc... It leverages AI to analyze gathered data and recommend the most effective exploits against identified vulnerabilities, streamlining the entire penetration testing process.
